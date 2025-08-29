@@ -25,7 +25,7 @@ API: OpenWeatherMap API
 
 # 🌐 Live Demo
 
-https://github.com/vishu0911/Weather
+https://vishu0911.github.io/Weather/
 
 # 📸 Screenshots
  <img width="2880" height="1619" alt="image" src="https://github.com/user-attachments/assets/91ed0d8a-410e-407f-9ad8-bc57a8b696be" />
