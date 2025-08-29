@@ -27,7 +27,7 @@ API: OpenWeatherMap API
 
 Clone the repository:
 
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/vishu0911/Weather
 
 # 📸 Screenshots
  <img width="2880" height="1619" alt="image" src="https://github.com/user-attachments/assets/91ed0d8a-410e-407f-9ad8-bc57a8b696be" />
