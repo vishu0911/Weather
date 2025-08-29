@@ -1,0 +1,27 @@
+# Weather App 🌦️
+
+A simple weather application built using HTML, CSS, and JavaScript, powered by the OpenWeatherMap API.
+This app allows users to search for a city and get real-time weather updates such as temperature, weather condition, humidity, and wind speed.
+
+# 🚀 Features
+
+🌍 Search weather by city name
+
+🌡️ Display current temperature in Celsius
+
+☁️ Show weather condition (Clear, Cloudy, Rainy, etc.)
+
+💨 Show humidity and wind speed
+
+🎨 Responsive UI with modern design
+
+🔄 Error handling for invalid city names
+
+# 🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+API: OpenWeatherMap API
+
+# 📸 Screenshots
+ <img width="2880" height="1619" alt="image" src="https://github.com/user-attachments/assets/91ed0d8a-410e-407f-9ad8-bc57a8b696be" />
