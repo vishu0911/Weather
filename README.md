@@ -1,4 +1,4 @@
-# Weather App 🌦️
+# 🌦️ Weather App 
 
 A simple weather application built using HTML, CSS, and JavaScript, powered by the OpenWeatherMap API.
 This app allows users to search for a city and get real-time weather updates such as temperature, weather condition, humidity, and wind speed.
