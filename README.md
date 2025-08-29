@@ -1,4 +1,4 @@
-<img width="2880" height="1619" alt="image" src="https://github.com/user-attachments/assets/56d30732-98d9-4fe5-ac50-cc921bfa875f" /># Weather App 🌦️
+# Weather App 🌦️
 
 A simple weather application built using HTML, CSS, and JavaScript, powered by the OpenWeatherMap API.
 This app allows users to search for a city and get real-time weather updates such as temperature, weather condition, humidity, and wind speed.
